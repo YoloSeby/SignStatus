@@ -1,8 +1,11 @@
 name: SignStatus
 main: SignStatus\SignStatus
-version: 3.0.0
-author: xpyctum
-api: [1.0.0]
+version: 4.0.0
+author: SuperKali
+api:
+- 2.0.0
+- 1.12.1
+- 1.13.0
 load: POSTWORLD
 permissions:
  signstatus:
