@@ -2,7 +2,7 @@
  - Write on the first line "status" on a sign.
  - Close and watch :3
 
-#IT
+#IT:
  - Prendi Un Cartello Lo Piazzi e Scrivi Nella Prima Riga "status"
  - Chiudi E Guarda
 
